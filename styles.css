@@ -11,3 +11,9 @@ body {
     bottom: 3%;
     left: 3%;
 }
+
+.ThreeLines {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+}
