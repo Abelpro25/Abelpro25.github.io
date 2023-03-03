@@ -4,3 +4,9 @@ body {
     text-align: center;
     size-adjust: large;
 }
+
+.lowbar {
+    position: absolute;
+    bottom: 20;
+    left: 20;
+}
