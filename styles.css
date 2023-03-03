@@ -1,12 +1,13 @@
 body {
     margin: 0;
-    background: pink;
+    background: crimson;
     text-align: center;
     size-adjust: large;
 }
 
 .lowbar {
+    display: inline;
     position: absolute;
-    bottom: 20;
-    left: 20;
+    bottom: 3%;
+    left: 3%;
 }
