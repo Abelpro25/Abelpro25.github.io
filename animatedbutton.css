@@ -1,8 +1,8 @@
 .menu {
     position: fixed;
     top: 0;
-    right: -500px;
-    width: 300px;
+    right: -100%;
+    width: 15%;
     height: 100%;
     background-color: #999;
     transition: all 0.3s ease;
