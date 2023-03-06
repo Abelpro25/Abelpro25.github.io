@@ -9,7 +9,7 @@ menuBtn.addEventListener('click', () => {
     menuOpen = true;
   } else {
     menuBtn.classList.remove('open');
-    menu.style.right = '-500px'; // hide the menu
+    menu.style.right = '-100%'; // hide the menu
     menuOpen = false;
   }
 });

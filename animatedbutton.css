@@ -34,10 +34,10 @@
   
 .menu-btn {
     position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 30px;
-    height: 30px;
+    top: 1.5%;
+    right: 1.5%;
+    width: 1.5%;
+    height: 1.5%;
     background: transparent;
     border: none;
     cursor: pointer;
